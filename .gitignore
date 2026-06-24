@@ -30,5 +30,6 @@ Thumbs.db
 *.swp
 *.swo
 
-# Roadmap
+# Project docs (local only)
 ROADMAP.md
+CLAUDE.md
